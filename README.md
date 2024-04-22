@@ -132,7 +132,7 @@ Publish the website in the LocalHost.
                <hr style="color: rgb(246, 245, 249);">
            </div>
            <div class="author">
-              <p><b>Charitha Kamireddy(212221040068)</b></p>
+              <p><b>Pradeesh kumar S (212221040124)</b></p>
            </div>
            <div class="ed">
                <b>Second Edition</b>
